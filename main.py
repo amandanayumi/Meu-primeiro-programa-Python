@@ -4,7 +4,7 @@ def main():
 
     soma = numero1 + numero2
 
-    print(f"A soma de {numero1} + {numero2} é {soma}")
+    print("A soma é:", soma)
 
 
 main()
