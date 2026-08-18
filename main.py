@@ -4,7 +4,7 @@ def main():
 
     soma = numero1 + numero2
 
-    print("A soma é:", soma)
+    print("Resultado da soma dos números:", soma)
 
 
 main()
