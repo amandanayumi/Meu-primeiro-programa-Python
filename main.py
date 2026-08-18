@@ -6,6 +6,5 @@ def main():
     soma = numero1 + numero2
     
     print(f"\n A soma de {numero1} + {numero2} = {soma}")
-
-if __name__ == "__main__":
+    
     main()
