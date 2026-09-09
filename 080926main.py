@@ -6,7 +6,7 @@ def main():
 
     soma = nota1 + nota2 + nota3 + nota4
 
-    print("Resultado da soma das notas:", soma)
+    print("Resultado da média das notas:", media)
 
 main()
 
